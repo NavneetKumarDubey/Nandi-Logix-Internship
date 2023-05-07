@@ -1,9 +1,9 @@
 h1 {
     color: blue;
 }
-
-p {
-    color : brown;color :orange;
+.color-Brown {
+color: Brown;
 }
-   
-  
+.color-Orange {
+    color: Orange;
+}
