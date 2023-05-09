@@ -1,8 +1,11 @@
 h1 {
     color: blue;
 }
-
-p {
-    color : brown;color :orange;
+.Color-Brown {
+    color:White;
+    background-color: brown;
 }
-   
+.Color-Orange {
+    Color: White;
+    background-color: orange;
+}
