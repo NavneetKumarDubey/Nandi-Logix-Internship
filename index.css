@@ -1,11 +1,16 @@
-h1 {
-    color: blue;
+h1{
+    color:blue;
 }
-.Color-Brown {
-    color:White;
-    background-color: brown;
+.Color-Brown{
+    color:white;
+    background-color:brown;
 }
-.Color-Orange {
-    Color: White;
-    background-color: orange;
+.Color-Orange{
+    color:white;
+    background-color:orange;
+}
+.para_font{
+   color: #001D35;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: #C2E7FF;
 }
